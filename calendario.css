@@ -1,0 +1,198 @@
+.alpha {
+    background-color: #F9D1AC;
+}
+
+.especialidades{
+
+    width: 200px;
+    height: 30px;
+    background-color: #e3b488;
+    color: #e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.Convênios{
+
+    width: 200px;
+    height: 30px;
+    background-color: #e3b488;
+    color: #e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.corpoclinico{
+
+    width: 200px;
+    height: 30px;
+    background-color: #e3b488;
+    color: #e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Marqueasuaconsulta{
+
+    width: 200px;
+    height: 30px;
+    background-color:#e3b488;
+    color:#e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Aunidade{
+
+    width: 200px;
+    height: 30px;
+    background-color: #e3b488;
+    color: #e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+nav {
+    background-color: #e3b488;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #FCEBD8;
+    color: black;
+}
+
+th,
+td {
+    font: bold;
+}
+.especialidades:hover{
+    background-color: #000000;
+}
+.Convênios:hover{
+    background-color: #000000;
+}
+.corpoclinico:hover{
+    background-color: #000000;
+}
+.Marqueasuaconsulta:hover{
+    background-color: #000000;
+}
+.Aunidade:hover{
+    background-color: #000000;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color:#000000;
+}
+a:hover{
+    background-color:#000000;
+    color: #e3b488;
+
+}
+a:visited{
+    color: #000000;
+
+}
+a:hover{
+    background-color:#000000;
+    color: #e3b488;
+}
+tr {
+    position: relative;
+    top: -500px;
+}
+tr{
+    background-position: -500px;
+    background-color:#f39d4c
+}
+
+.b1{
+    position: relative;
+    left: 730px;
+    top: 220px;
+    
+}
+.linha{                         
+    width: 460px; height: 40px;
+    background-color:#e3b488;
+    position: relative;
+    top: 260px;                                 /*de b1 para b2 aumentou 70px  top diminuiu em 21px*/ 
+}
+.b2{
+    position: relative;
+    left: 800px ;
+    top: 199px;
+}                                             /* de b2 para b3 aumentou 67px top diminuiu em 21px*/
+.b3{                             
+    position: relative;
+    left: 867px;
+    top: 178px;
+}                                           /* de b3 para b4 aumentou 63px top diminuiu em 21px*/
+.b4{
+    position: relative;
+    left: 930px;
+    top: 157px ;
+}
+.b5{                                        /* de b4 para b5 aumentou 60px top diminuiu em 21px*/
+    position: relative;
+    left: 990px;
+    top: 136px;
+}
+.b6{                                        /* de b5 para b6 aumentou 68 px top diminuiu em 21px*/
+    position: relative;
+    left: 1058px ;
+    top: 115px;
+}
+.b7{                                        /* de b6 para b7 aumentou 70px top diminuiu em 21px*/
+    position: relative;
+    left:1128px;
+    top: 94px;
+}
+.b8{
+    position: relative;
+    left: 730px;
+    top: 115px
+}
+.lin2{
+    width: 460px; height: 40px;
+    background-color:#FCEBD8;
+    position: relative;
+    top: 350px;
+}
+.b9{
+    position: relative;
+    left:800px;
+    top: 95px;
+}
+.b10{
+    position: relative;
+    left: 867px;
+    top: 74px;
+}
+.b11{
+    position: relative;
+    left: 930px;
+    top: 53px;
+}
+.b12{
+    position: relative;
+    left: 990px;
+    top: 32px;
+}
+.b13{
+    position: relative;
+    left: 1058px;
+    top: 11px;
+}
+.b14{
+    position: relative;
+    left:
+}
